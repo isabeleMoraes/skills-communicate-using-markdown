@@ -9,3 +9,10 @@ var myVar = "Hello, world!";
 ``` Java
 private int numero = 1;
 ```
+
+- [ ] Opção 1
+- [ ] Opção 2
+- [ ] Opção 3
+
+[] Teste
+[] Teste 2
